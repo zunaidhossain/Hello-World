@@ -35,7 +35,7 @@ ENTRYPOINT ["java", "-jar", "Hello-World.jar"]
 
 You can directly pull and run the image from DockerHub without building anything locally.
 
-### 1️⃣ Pull the Image**
+### 1️⃣ Pull the Image
 ```bash
 docker pull zunaidhossain/spring-hello-world:v1
 ```
